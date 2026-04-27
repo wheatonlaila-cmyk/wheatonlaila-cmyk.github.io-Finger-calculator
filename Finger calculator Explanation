@@ -3,4 +3,4 @@ Finger calculator project!
 
 Partner:TaMaiya , Torrey
  
- In our prject we decided to  leveled up the prototype by adding a Mode-Selection System based on hand gestures. We kept the original addition logic but extended it to support Multiplication (x2) whenever the left hand shows one finger. On top of that, we built in new functions for Squaring, Square Root, and Binary Conversion depending on your finger count. We also linked the HTML Checkbox to act as a Tax Toggle, adding 7% to any total. It’s a full-on upgrade that handles advanced math in real-time while keeping the simple stuff working.
+ In our project we decided to  leveled up the prototype by adding a Mode-Selection System based on hand gestures. We kept the original addition logic but extended it to support Multiplication (x2) whenever the left hand shows one finger. On top of that, we built in new functions for Squaring, Square Root, and Binary Conversion depending on your finger count. We also linked the HTML Checkbox to act as a Tax Toggle, adding 7% to any total. It’s a full-on upgrade that handles advanced math in real-time while keeping the simple stuff working.
